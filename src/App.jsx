@@ -1,7 +1,9 @@
+import DigitalClock from "./DigitalClock";
+
 function App() {
   return (
     <>
-      <h1>App</h1>
+      <DigitalClock />
     </>
   );
 }
